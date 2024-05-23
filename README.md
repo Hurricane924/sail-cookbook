@@ -1,5 +1,6 @@
 <img src="thumbnail.png" alt="thumbnail" width="300"/>
 
+
 # (Replace_with_your_title) Cookbook
 
 [![nightly-build](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml)
